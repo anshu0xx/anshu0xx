@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-    I’m currently working on React Js
     Hi, I’m Anshu Sharma
+    I’m currently working on React Js
     I’m interested in ... Web Development
     How to reach me ... anshu.sharma@hcode.tech
 
